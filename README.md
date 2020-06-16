@@ -24,6 +24,9 @@ python3 app.py
 
 - Run app.py file: `python3 app.py`
 
-Now it's also working online on GCloud, see: https://text2analysis-sul7mvck2a-lz.a.run.app/
+Version running online on Heroku: https://previtus-nlp-api-heroku.herokuapp.com/enter
 
-[![Demo on GCloud](https://raw.githubusercontent.com/previtus/Text2Analysis/master/illustration_screen.png)](https://text2analysis-sul7mvck2a-lz.a.run.app/ "Online Demo")
+(now offline) GCloud: https://text2analysis-sul7mvck2a-lz.a.run.app/
+
+
+[![Demo](https://raw.githubusercontent.com/previtus/Text2Analysis/master/illustration_screen.png)](https://previtus-nlp-api-heroku.herokuapp.com/enter)
